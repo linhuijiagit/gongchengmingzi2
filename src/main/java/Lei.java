@@ -3,5 +3,6 @@ public class Lei {
         System.out.println("");
         System.out.println("");
         System.out.println("");
+        System.out.println("");
     }
 }
